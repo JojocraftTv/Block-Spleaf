@@ -6,6 +6,8 @@ Block Spleaf is a fun little "Game mode", that was made by JojocraftTv.
 
 It's **discontinued**.
 
+Minecraft-Version: 1.18.1
+
 This was just made for fun, the code is not optimized, it was just for a fun day with some friends.
 
 If you want to use the code (I don't recommend it), you can take parts of it. 
