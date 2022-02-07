@@ -1,0 +1,11 @@
+main: de.jojocrafttv.App
+name: blockspleaf
+api-version: 1.18
+version: 1.0
+commands:
+  start:
+    description: start the game
+    usage: /reset
+  settings:
+    description: settings
+    usage: /settings
